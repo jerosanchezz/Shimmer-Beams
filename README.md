@@ -6,4 +6,4 @@ This is a classic displacement game, fun, select an entity from the bottom, and 
 
 If you have any questions or suggestions about our app, do not hesitate to contact us.
 
-Email: fxiaoding@gmail.com
+Email: qyhiqc@gmail.com
